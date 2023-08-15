@@ -4,7 +4,7 @@ import { useState } from "react";
 
 import { upperCaseLetters, lowerCaseLetters, numbers, special } from "./data.jsx";
 
-import Modal from "./Modal";
+import Modal from "./modal";
 
 function App() {
   const [password, setPassword] = useState("");
