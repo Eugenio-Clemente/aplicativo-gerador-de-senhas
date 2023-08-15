@@ -81,9 +81,9 @@
 }
 
 .generator__form-actions .generate-btn {
-  background: linear-gradient(to right, #a0c0ff, #b2abff);
+  background: linear-gradient(to right, #e66d9b, #7669ec);
 }
 
 .generator__form-actions .copy-btn {
-  background: linear-gradient(to right, #62f498, #77f4eb);
+  background: linear-gradient(to right, #7bf5a7, #219b93);
 }

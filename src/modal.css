@@ -16,14 +16,14 @@
     width: 500px;
     padding: 1rem;
     border-radius: 5px;
-    background: linear-gradient(to right, #a0c0ff, #b2abff);
+    background: linear-gradient(to right, #e66d9b, #7669ec);
     z-index: 100;
   }
   
   .modal button {
     margin-top: 20px;
     padding: 8px 12px;
-    color: #292e5a;
+    color: #273083;
     border: none;
     border-radius: 5px;
     cursor: pointer;
